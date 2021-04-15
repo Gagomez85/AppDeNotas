@@ -1,12 +1,14 @@
-    {
-        titulo: copiar,
-        estado: terminada
+[
+  {
+    "titulo": "copiar",
+    "estado": "terminada"
     },
-    {
-        titulo: pegar,
-        estado: en progreso
+ {
+    "titulo": "pegar",
+    "estado": "en progreso"
+    },
+ {
+    "titulo": "escribir",
+    "estado": "pendiente"
     }
-    {
-        titulo: escribir,
-        estado: pendiente
-    }
+]
