@@ -1,0 +1,12 @@
+    {
+        titulo: copiar,
+        estado: terminada
+    },
+    {
+        titulo: pegar,
+        estado: en progreso
+    }
+    {
+        titulo: escribir,
+        estado: pendiente
+    }
